@@ -88,3 +88,36 @@ It includes:
   ```cpp
   const int servoSpeed = 2;
   const unsigned long openDuration = 4000;
+
+---
+
+🔧 Customization Ideas
+
+You can expand the project with:
+
+Bluetooth control (HC-05)
+
+IR remote control
+
+OLED/LCD screen
+
+Buzzer for warning
+
+Automatic night lighting
+
+
+
+---
+
+📄 License
+
+This project is released under the MIT License.
+You may copy, modify, and use it freely.
+
+
+---
+
+🙌 Credits
+
+Created by Mutlu Ergöz
+Tinkercad design, Arduino wiring, and full implementation by the author.
