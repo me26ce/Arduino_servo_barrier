@@ -43,4 +43,4 @@ See the `LICENSE` file for details.
 Project developed by **Mutlu Ergöz**  
 Tinkercad modeling, wiring, and programming by the author.
 
-<p align="center">⭐ If you like this project, feel free to star the repository!</p>
+⭐ If you like this project, feel free to star the repository!
